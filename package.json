@@ -1,6 +1,6 @@
 {
     "name": "webpack5-remove-use-strict-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Webpack 5 plugin to remove all instance of \"use strict\" from the generated code",
     "main": "src/index.js",
     "scripts": {},
@@ -12,6 +12,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
+    "type": "module",
     "author": "Ashfaq Ansari (@HackSysTeam)",
     "license": "MIT",
     "bugs": {

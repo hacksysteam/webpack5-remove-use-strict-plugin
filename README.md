@@ -1,5 +1,7 @@
 # webpack5-remove-use-strict-plugin for Webpack 5
 
+[![npm version](https://badge.fury.io/js/webpack5-remove-use-strict-plugin.svg)](https://badge.fury.io/js/webpack5-remove-use-strict-plugin)
+
 Webpack 5 plugin to remove "use strict" from the generated code.
 
 ## Installation

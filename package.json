@@ -1,0 +1,31 @@
+{
+    "name": "webpack5-remove-use-strict-plugin",
+    "version": "1.0.0",
+    "description": "Webpack 5 plugin to remove all instance of \"use strict\" from the generated code",
+    "main": "src/index.js",
+    "scripts": {},
+    "keywords": [
+        "webpack5",
+        "use strict",
+        "plugin"
+    ],
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "author": "Ashfaq Ansari (@HackSysTeam)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hacksysteam/webpack5-remove-use-strict-plugin/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hacksysteam/webpack5-remove-use-strict-plugin.git"
+    },
+    "homepage": "https://hacksys.io/",
+    "devDependencies": {
+        "eslint": "^8.29.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "prettier": "^2.8.0"
+    }
+}

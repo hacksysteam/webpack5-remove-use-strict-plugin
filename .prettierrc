@@ -1,0 +1,12 @@
+{
+    "printWidth": 100,
+    "useTabs": false,
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}

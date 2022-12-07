@@ -1,8 +1,9 @@
 # webpack5-remove-use-strict-plugin for Webpack 5
 
-[![npm version](https://badge.fury.io/js/webpack5-remove-use-strict-plugin.svg)](https://badge.fury.io/js/webpack5-remove-use-strict-plugin)
+![npm version](https://img.shields.io/npm/v/webpack5-remove-use-strict-plugin)
+![npm downloads](https://img.shields.io/npm/dt/webpack5-remove-use-strict-plugin)
 
-Webpack 5 plugin to remove "use strict" from the generated code.
+Webpack 5 plugin to remove `"use strict"` from the generated code.
 
 ## Installation
 
